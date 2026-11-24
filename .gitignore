@@ -5,6 +5,8 @@
 *.pem
 *.key
 node_modules/
+dist/
+*.local
 __pycache__/
 .venv/
 venv/

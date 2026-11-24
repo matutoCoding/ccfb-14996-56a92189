@@ -1,0 +1,16 @@
+{
+  "name": "mosaic-light-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "浏览器端马赛克壁画排块、光照预览与施工图系统",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}
